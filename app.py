@@ -24,7 +24,7 @@ def index():
     <!DOCTYPE html>
     <html>
     <head>
-        <title>Browser Title</title>
+        <title>pythonisbad</title>
     </head>
     <body>
         <h3 align=center>Render-python-submit-caleb.py/html i dont even know what to label this</h3>
